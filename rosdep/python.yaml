@@ -1,3 +1,12 @@
+python-voluptuous:
+  ubuntu:
+    pip: [voluptuous]
+python-uptime:
+  ubuntu:
+    pip: [uptime]
+python-awsiot:
+  ubuntu:
+    pip: [AWSIoTPythonSDK]
 adafruit-pca9685-pip:
   debian:
     pip:
